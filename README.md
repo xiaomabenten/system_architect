@@ -3,14 +3,13 @@
 #### 介绍
 目前全网最全面的2023年 系统架构设计师 （软考高级）备考资源库。
 
-> 23年11月份最新题库、全部免费、无广告刷题小程序，欢迎扫描练习！！！
->
-> ![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88-github.png?x-oss-process=image/resize,w_258,h_258,limit_0)
-
-
-> 注意：获取更多在线视频资料和大文件无法上传GitHub，请关注公众号「**CTO说**」。关注后回复  『系统架构设计师』，免费领取2023年最新最全的架构设计师备考视频资料
+> 获取更多在线视频资料和大文件无法上传GitHub，请关注公众号「**CTO说**」。关注后回复  『系统架构设计师』，免费领取2023年最新最全的架构设计师备考视频资料
 >
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
+
+> **23年11月份最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！！**
+>
+> ![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88-github.png?x-oss-process=image/resize,w_258,h_258,limit_0)
 
 #### 目录结构
  - 教材
