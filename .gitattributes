@@ -1,0 +1,9 @@
+*.md linguist-language=HTML 
+*.yml linguist-language=HTML 
+*.html linguist-language=HTML 
+*.js linguist-language=HTML 
+*.xml linguist-language=HTML
+*.css linguist-language=HTML 
+*.sql linguist-language=HTML
+*.uml linguist-language=HTML 
+*.cmd linguist-language=HTML 
