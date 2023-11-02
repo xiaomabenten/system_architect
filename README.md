@@ -3,6 +3,9 @@
 #### 介绍
 目前全网最全面的2024年 系统架构设计师 （软考高级）备考资源库。
 
+>  **配套免费PC版 软考刷题软件：** 
+>  https://ruankaokao.com
+
 > 获取更多在线视频资料和大文件无法上传GitHub，请关注公众号「**CTO说**」。关注后回复  『系统架构设计师』，免费领取2024年最新最全的架构设计师备考视频资料
 >
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
