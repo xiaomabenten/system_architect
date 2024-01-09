@@ -9,7 +9,7 @@
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
 
 >  **配套免费PC版 软考刷题软件：** 
->  https://ruankaokao.com
+>  https://ruankaodaren.com
 
 > **24年最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！！**
 >
