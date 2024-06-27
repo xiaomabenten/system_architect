@@ -136,4 +136,4 @@
 
 关注公众号**CTO说**，专注研发管理，每周二与你准时分享，伴研发管理的你一起成长。关注后回复  『系统架构设计师』 ，领取CTO为你精心准备的超 1TB 免费 系统架构设计师备考 资源。
 
-![公众号二维码](https://cdn-static.uoko.com/qrcode.jpg)
+![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
